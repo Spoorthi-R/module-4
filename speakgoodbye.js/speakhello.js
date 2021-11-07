@@ -1,4 +1,5 @@
-[18:51, 07/11/2021] Vibhima: // STEP 2: Wrap the entire contents of SpeakHello.js inside of an IIFE
+
+// STEP 2: Wrap the entire contents of SpeakHello.js inside of an IIFE
 // See Lecture 52, part 2
 
 
